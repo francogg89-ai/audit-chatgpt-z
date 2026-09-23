@@ -1,0 +1,12 @@
+TARGET_WORK_SHA=ce89a58c0862abced634224dea1dc42a27505b6a
+PREVIOUS_AUDIT_SHA=ee2489e807aa136233c9324825e43809440195fb
+VEREDICTO=P0_C_U2_10_PUBLICACION_REMOTA_CONFIRMADA
+P0_PATH=unidad-2-circuito-minimo/evidencia-c-u2-10/p0-comandos.txt
+P0_BLOB_SHA=00ff48dc02ea8564ec8e35a69bf951d88caa355a
+P0_OUTPUT=13 passed in 2.10s
+P0_EXIT_CODE=0
+REMOTE_HEAD_VISIBLE=ce89a58c0862abced634224dea1dc42a27505b6a
+C0_AUTORIZADO=NO
+P1_AUTORIZADO=NO
+ESTADO=CONGELADO_P0_PASADO_CONTINUIDAD_DETENIDA_ANTES_DE_C0
+NEXT_HUMAN=Se mantiene la necesidad humana registrada en ee2489e807aa136233c9324825e43809440195fb: autorizar explícitamente UNA ejecución de C0 con alcance exclusivamente probatorio y sin modificar estado de apps.
